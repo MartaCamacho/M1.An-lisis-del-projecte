@@ -15,7 +15,3 @@ Como competencia podemos tener en cuenta las siguiente webs:
 <p>https://www.farmaciajimenezbarcelona.com/ - Esta web tiene varias funcionalidades pero los estilos dejan un poco que desear, tanto en escritorio como responsive, así como la página de inicio es la tienda y creo que se mejoraría la User Experience entrando en una página introductoria antes.</p>
 
 Creo que las tres tienen cosas muy buenas en las que inspirarse y que de todas ellas se puede extraer información para hacer una web muy completa, y que la web de esta farmacia en concreto será la más atractiva de todas.
-
-<h1>Ejercicio 2:</h1>
-
-Wireframes adjuntos.
